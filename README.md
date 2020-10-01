@@ -39,5 +39,7 @@ The scrambled words from the following languages it supports:
 
 8. The output is also saved in the text file with name: `correctWord.txt` present in the same directory.
 
+9. We can check the text file using this command: `cat correctWord.txt` or `less correctWord.txt`.
+
 
 ### Thank You!
