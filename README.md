@@ -20,7 +20,7 @@ The scrambled words from the following languages it supports:
 ## Installation & Usage
 1. Download the repository zip file or
    Clone the repository using the following command.
-   `* git clone https://github.com/anant21/wordScrambleSolver.git`
+   * `git clone https://github.com/anant21/wordScrambleSolver.git`
 
 2. Change the directory to the directory of the tool.
    `cd wordScrambleSolver`
