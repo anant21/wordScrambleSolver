@@ -3,10 +3,10 @@
 This Linux compatible tool is created using the Shell Scripting.
 It can solve the scrambled words of 5 different languages. 
 The scrambled words from the following languages it supports: 
-  $ Spanish 
-  $ French
-  $ English
-  $ Portuguese
+  $ Spanish \
+  $ French \
+  $ English \
+  $ Portuguese \
   $ English
   
 ## Requirements
@@ -14,7 +14,7 @@ The scrambled words from the following languages it supports:
 * Linux Platform 
 * Crunch Tool
 
-##### Download Crunch Tool in Debian
+##### Download Crunch Tool in Debian 
 `sudo apt install crunch`
 
 ## Installation & Usage
@@ -22,13 +22,13 @@ The scrambled words from the following languages it supports:
    Clone the repository using the following command.
    * `git clone https://github.com/anant21/wordScrambleSolver.git`
 
-2. Change the directory to the directory of the tool.
+2. Change the directory to the directory of the tool. \
    `cd wordScrambleSolver`
    
-3. Make the script executable.
+3. Make the script executable. \
    `chmod +x solve.sh`
  
-4. Start the tool by running the solve.sh script.
+4. Start the tool by running the solve.sh script. \
    `./solve.sh`
    
 5. Choose the Language: es/en/pt/fr/de. For example choose: `es` (Espanol - Spanish)
