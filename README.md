@@ -7,7 +7,7 @@ The scrambled words from the following languages it supports: \
   $ French \
   $ English \
   $ Portuguese \
-  $ English
+  $ German
   
 ## Requirements
 
